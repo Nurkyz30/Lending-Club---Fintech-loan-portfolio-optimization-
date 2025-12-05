@@ -1,4 +1,5 @@
 # Lending club analysis
+
 Lending Club operates as America's largest peer-to-peer lending marketplace, connecting borrowers seeking personal loans ($1,000-$40,000) with investors looking for attractive returns. The platform assigns risk grades (A through G) based on creditworthiness, with interest rates ranging from 6% to 36%. Between 2007-2018, Lending Club originated over $50 billion in loans. This analysis examines 1.35 million completed loans from the company's historical portfolio to identify optimization opportunities in product mix and risk management.
 
 ### Data Architecture
@@ -17,6 +18,7 @@ Lending Club operates as America's largest peer-to-peer lending marketplace, con
 -1,347,721 loans analyzed across 14 segments (7 grades × 2 terms) $3.17B total profit generated 16.3% average ROI with 29.7% default rate
 
   <img width="856" height="476" alt="image" src="https://github.com/user-attachments/assets/19aa0d00-0798-401b-b671-ef23411d2b56" />
+  
 ### Key Insights
 
 **Portfolio Performance & Opportunities** 
@@ -32,6 +34,7 @@ Grade B-C borrowers at 60-month terms emerge as clear winners: $5,000+ profit pe
 All seven risk grades perform 150-200% better at 60-month term, indicating systematic underweighting rather than segment-specific anomaly.
 Extended terms accumulate more interest revenue over life of loan, with default risk increasing more modestly than revenue gain.
 
+---
 ### Risk model
 
 <img width="849" height="311" alt="image" src="https://github.com/user-attachments/assets/353500a5-9e6d-4ab6-b5f9-600aa1aa3350" />
