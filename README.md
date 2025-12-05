@@ -1,7 +1,5 @@
 # Lending club analysis
-Comprehensive analysis of Lending Club's loan portfolio (2007-2018) to optimize profitability and risk management. This project demonstrates end-to-end data analytics capabilities from SQL data modeling to executive dashboard creation.
-
-Identified $700M+ opportunity through portfolio rebalancing and strategic recommendations validated by rigorous statistical analysis.
+Lending Club operates as America's largest peer-to-peer lending marketplace, connecting borrowers seeking personal loans ($1,000-$40,000) with investors looking for attractive returns. The platform assigns risk grades (A through G) based on creditworthiness, with interest rates ranging from 6% to 36%. Between 2007-2018, Lending Club originated over $50 billion in loans. This analysis examines 1.35 million completed loans from the company's historical portfolio to identify optimization opportunities in product mix and risk management.
 
 ### Data Architecture
 
@@ -15,8 +13,6 @@ Identified $700M+ opportunity through portfolio rebalancing and strategic recomm
 - **Time Period:** 2007-2018
 - **Source:** Lending Club fintech company (historical real world data) 
 - **Size:** 1.35M records across 3 normalized tables
-Recourses 
-- **Data Source:** Lending Club (real world fintech 2007-2018 historical loan data)
 
 ### Primary Findings
 
