@@ -81,9 +81,9 @@ All grades moved directionally together during crisis (+60-80% relative increase
 
 
 **Portfolio Optimization**
-- Increase 60-Month Allocation: Gradually shift portfolio mix from current 24% to target 40-45% in 60-month products over 12-18 months. Implement through marketing channel optimization, pricing incentives for extended terms, and borrower education campaigns emphasizing payment flexibility benefits.
 - Reprice Grade A-36m: Current 14.2% ROI falls below portfolio average of 16.3% despite lowest risk profile. Evaluate rate increases of 100-150 basis points or introduce incentive structure to migrate borrowers to 60-month products where Grade A achieves 24.2% ROI.
 - Exit Grade G-36m: Discontinue originations for only segment with negative economics (-$662 per loan, -4.6% ROI). Redirect underwriting capacity and capital to positive-return segments. Expected impact: +$7M value plus risk reduction benefits.
+- Increase 60-Month Allocation: Gradually shift portfolio mix from current 24% to target 40-45% in 60-month products over 12-18 months. Implement through marketing channel optimization, pricing incentives for extended terms, and borrower education campaigns emphasizing payment flexibility benefits.
 
 **Growth and Scale**
 - Expand Grade B-C 60-Month Volume: Increase originations by 50% from current 153K annual loans to ~230K. Focus marketing, sales incentives, and credit box refinement on these highest-performing segments. Target portfolio weight increase from 11.4% to 15-18%.
@@ -101,5 +101,12 @@ All grades moved directionally together during crisis (+60-80% relative increase
 | **Analysis** | SQL (Window functions, CTEs, aggregations) | Complex analytical queries |
 | **Data Processing** | Python (pandas) | Data export & transformation |
 | **Visualization** | Power BI Desktop | Interactive dashboards |
+
+**Analytical Methods:**
+
+- Composite risk scoring via multi-factor model (grade, FICO, DTI, term)
+- Cohort analysis controlling for vintage and grade effects
+- Segment profitability: revenue (interest × term) minus loss (principal on defaults)
+- Economic stress testing using financial crisis period
 
 ⭐ If you found this analysis valuable, please star this repository!
