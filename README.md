@@ -60,7 +60,7 @@ Extended terms accumulate more interest revenue over life of loan, with default 
   This positioning reflects optimization for origination scale 
   in segments with acceptable risk-adjusted returns.
 
-- High-risk tail (scores 11-13) represents 5% of portfolio 
+- **Scores 11-13 (high-risk)** represents 5% of portfolio 
   with 50%+ default rates, demonstrating controlled exposure 
   to elevated-risk segments.
 
